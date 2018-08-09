@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a17a45996ea4d12f3170fdca52e43e83",
+    "content-hash": "e2a8185fce6533aad3f65c7209657d76",
     "packages": [
         {
             "name": "apfelbox/php-file-download",
