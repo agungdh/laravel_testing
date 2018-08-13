@@ -18,3 +18,5 @@ Route::match(['get', 'post'], 'phpmailer', 'PHPMailerController@index');
 Route::get('uuid', 'UUIDController@index');
 
 Route::get('testtambah', 'TestTambahController@index');
+
+Route::get('naoktak', 'NAOktakController@index');
